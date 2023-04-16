@@ -6,7 +6,7 @@
         {{ $t('menu') }}
       </span>
     </button>
-    <div class="mx-auto w-[30rem]" :class="{ 'hidden': !showContainer }">
+    <div class="mx-auto w-[32rem]" :class="{ 'hidden': !showContainer }">
       <div class="pb-4 md:block rounded-2xl">
         <div class="p-2 pb-0">
           <OtherLang />

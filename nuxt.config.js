@@ -76,6 +76,9 @@ export default {
           openmodal: 'Open Modal',
           next: 'Next',
           previous: 'Previous',
+          getinformed: 'Get informed',
+          heretohelp: 'We’re here to help',
+          reserved: 'All rights reserved',
 
           // Pages
           whoweare: 'Who We Are',
@@ -89,11 +92,6 @@ export default {
           about: 'About',
           another: 'Another One',
           services: 'Services',
-          pagea: 'Sample Page A',
-          pageb: 'Sample Page B',
-          pagec: 'Sample Page C',
-          paged: 'Sample Page D',
-          pagee: 'Sample Page E',
 
           // Description
           desc_whoweare: 'Academy Without Borders',
@@ -117,11 +115,14 @@ export default {
           openmodal: 'Pencereyi Aç',
           next: 'Sonraki',
           previous: 'Önceki',
+          getinformed: 'Bilgi Almak için bize ulaşın',
+          heretohelp: 'Yardım etmek için buradayız',
+          reserved: 'Tüm Hakları Saklıdır',
 
           // Pages
           whoweare: 'Biz Kimiz',
           chairsmessage: 'Başkandan Mesaj',
-          ourlearningfacilitators: 'Our Learning Facilitators',
+          ourlearningfacilitators: 'Öncü Academy Ekibi',
           certificateprogramsandcourses: 'Certificate Programs and Courses',
           careers: 'Kariyer',
           home: 'Anasayfa',
@@ -130,19 +131,14 @@ export default {
           about: 'Hakkında',
           another: 'Başka Bir',
           services: 'Servisler',
-          pagea: 'Örnek Sayfa A',
-          pageb: 'Örnek Sayfa B',
-          pagec: 'Örnek Sayfa C',
-          paged: 'Örnek Sayfa D',
-          pagee: 'Örnek Sayfa E',
 
           // Description
-          desc_whoweare: 'Academy Without Borders',
-          desc_chairsmessage: 'A message from the founder',
-          desc_ourlearningfacilitators: 'Meet the Facilitators',
+          desc_whoweare: 'Sınırları Olmayan Akademi',
+          desc_chairsmessage: 'Başkandan Mesaj',
+          desc_ourlearningfacilitators: 'Ekibimizle tanışın',
           desc_certificateprogramsandcourses: 'MBA and Leadership certificates, Lectures, Modules, and Courses',
-          desc_careers: 'Work with us',
-          desc_contact: 'Get in touch',
+          desc_careers: 'Bizlerle çalışmak ister misiniz?',
+          desc_contact: 'İletişme geçin',
           desc_home: 'Hoşgeldiniz Sayfası',
           desc_about: 'Hakkımızda Sayfası',
           desc_test: 'Test Metin',

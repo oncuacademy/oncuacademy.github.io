@@ -6,9 +6,6 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                  About
-                </h2>
                 <h3 class="mt-2 text-xl font-bold tracking-tight text-gray-500 sm:text-2xl">
                   Academy Without Borders
                 </h3>
@@ -84,23 +81,17 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                  About
-                </h2>
                 <h3 class="mt-2 text-xl font-bold tracking-tight text-gray-500 sm:text-2xl">
-                  Academy Without Borders
+                  Sınırları Olmayan Akademi
                 </h3>
                 <p class="mt-6 text-base leading-8 text-gray-700">
-                  Öncü Academy was founded by a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.
+                  Öncü Akademi, öğrenmeye adanmış bir grup tutkulu akademisyen ve profesyonel tarafından kuruldu. Bu insanlar, kapsamlı deneyim ve uzmanlıklarından güç alarak, öğretim ve öğrenme konusunda yeni bir yaklaşım yaratmak için bir araya geldiler.
                 </p>
                 <p class="mt-6 text-base leading-8 text-gray-700">
-                  We believe that everyone deserves access to knowledge and personal growth, which is why we've built a comprehensive learning framework and tailored executive education programs designed to break down barriers and cultivate a culture of lifelong learning.
+                  Akademinin amacı, insanları gerçekten dönüştürebilecek bir eğitim sunmak ve öğrenenlerin yeni ufuklar keşfetmelerine yardımcı olmaktır. Akademi, yaşam boyu öğrenmenin önemini vurgulayan ve öğrenenlerin kendilerini sürekli olarak geliştirmelerini teşvik eden bir öğrenme felsefesi ve modeli benimsemektedir.
                 </p>
                 <p class="mt-6 text-base leading-8 text-gray-700">
-                  We recognize that everyone learns differently, and we are committed to providing personalized and inclusive learning experiences that meet the unique needs of each individual.
-                </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
-                  Through our innovative programs, modules, and courses, we seek to pioneer new frontiers in learning, equipping individuals, professionals, organizations, and communities with the knowledge and skills they need to achieve their goals. By fostering a culture of lifelong learning, we aim to create positive change and make a lasting impact on the world.
+                  Her bireyin bilgiye ve kişisel gelişime erişim hakkına sahip olduğu inancıyla, yaşam boyu öğrenme kültürünün geliştirilmesine ve bilgiye ulaşmanın önündeki engellerin kaldırılmasına odaklanmaktadır. Bu açıdan,  öncelikli olarak yönetici gelişim programları tasarlamaktadır.
                 </p>
               </div>
             </div>
@@ -113,39 +104,39 @@
               <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
                 <ul role="list" class="mt-8 space-y-8 text-gray-600">
                   <li class="flex gap-x-3">
-                    <span><font-awesome-icon :icon="['fas', 'eye']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Vision.</strong>
-                      <p class="mt-6 text-base leading-8 text-gray-700">We will be an academy that serves as a beacon of hope and inspiration for all who seek to grow, develop, and succeed. An academy that values diversity, equity, and inclusion and empowers learners to pursue their passions and interests with confidence and enthusiasm.</p>
+                    <span><font-awesome-icon :icon="['fas', 'eye']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Vizyon.</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Büyümek, gelişmek ve başarılı olmak isteyenlerin umut ve ilham kaynağı olacak bir akademi olacağız. Farklılığı, eşitliği ve kapsayıcılığı önemseyen, öğrencilerini tutku ve hevesle ilgi alanlarına yönlendiren bir akademi olacağız.</p>
                     </span>
                   </li>
                   <li class="flex gap-x-3">
-                    <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Values.</strong>
+                    <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Değerler.</strong>
                       <ul class="ml-6">
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Respect for human dignity: </strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Responsibility:</strong> We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Honesty:</strong> We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Fairness:</strong> We strive for fairness and justice in our interactions with others, and work to eliminate discrimination and bias in all forms.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Compassion:</strong> We show compassion and empathy towards others, and work to help those in need.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>İnsan Onuruna Saygı: </strong>Geçmişi, ırkı, dini, cinsiyeti veya cinsel yönelimi ne olursa olsun, tüm bireylere insanlık onuruyla ve saygıyla yaklaşırız.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Sorumluluk:</strong> Eylemlerimizin ve sonuçlarının sorumluluğunu alırız. Ahlaki davranır ve kararlarımızın başkaları üzerindeki etkisine karşı sorumluluk üstleniriz.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Dürüstlük:</strong> İş ve kişisel ilişkilerimizde, dürüst ve doğru davranırız.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Adil Olmak:</strong> Bütün ilişkilerimizde adalet ve eşitlik arayışına uygun hareket ederiz. Her türlü ayrımcılığı ve önyargıyı ortadan kaldırmak için çalışırız.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Merhamet:</strong> İhtiyacı olanlara yardım etmek için merhamet ve duygudaşlık gösteririz.</li>
                       </ul>
                     </span>
                   </li>
                   <li class="flex gap-x-3">
-                    <span><font-awesome-icon :icon="['fas', 'lightbulb']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Knowledge Creation and Sharing</strong>
-                      <p class="mt-6 text-base leading-8 text-gray-700">At Öncü Academy, we believe in a dynamic and evolving approach to knowledge that emphasizes collaboration, innovation, and critical thinking. We view knowledge as a constantly changing and expanding realm, one that requires ongoing curiosity, exploration, and reflection. Our learning practice rests on the firm belief that knowledge is not just a product, but a process of discovery and inquiry that involves diverse perspectives and experiences. As such, we strive to create a learning environment that fosters intellectual openness, inclusivity, and respect for different ways of knowing.</p>
+                    <span><font-awesome-icon :icon="['fas', 'lightbulb']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Bilgi ve Öğreneme Yaklaşımı</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Öncü Akademi, işbirliklerine, yenilikçiliğe ve eleştirel düşünceye önem veren, dinamik ve gelişen bir bilgi ve bilme anlayışını ve pratiğini benimser. Bilgiyi sürekli değişen ve genişleyen bir alan olarak görür, sürekli merak, keşif ve düşünme gerektiren bir süreç olarak ele alır. Öğrenme yaklaşımı, bilginin sadece bir ürün değil, farklı perspektifler ve deneyimler içeren bir keşif ve sorgulama süreci olduğuna dair sağlam bir inanç üzerine oturur. Bu nedenle, farklı bilgi biçimlerine saygı duyar, zihinsel açıklığı ve kapsayıcılığı teşvik eden bir öğrenme ortamı yaratmaya çalışır.</p>
                     </span>
                   </li>
                   <li class="flex gap-x-3">
-                    <span><font-awesome-icon :icon="['fas', 'graduation-cap']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Program Design and Pedagogical Approaches for Effective Learning</strong>
-                      <p class="mt-6 text-base leading-8 text-gray-700">We develop our learning programs based on interdisciplinary interests and needs, drawing from various fields such as business and management studies, political economy, social theory, cultural studies, history, philosophy, computing science, urban studies, finance and economics.</p>
-                      <p class="mt-6 text-base leading-8 text-gray-700">Our classroom and online teaching methods are centered on active learning and critical thinking, which involves encouraging participants to think deeply and critically about the subject matter at hand. We employ a range of techniques such as case studies, group discussions, debates, problem-solving activities, and experiential learning to facilitate this process.</p>
+                    <span><font-awesome-icon :icon="['fas', 'graduation-cap']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Program Tasarımı ve Etkili Öğrenme Pedagojisi</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Öncü Akademi’de, öğrenme programları disiplinlerarası ilgi ve ihtiyaçlara dayalı olarak geliştirilir ve işletme ve yönetim bilimleri, siyasal iktisat, sosyal teori, kültür çalışmaları, tarih, felsefe, bilgisayar bilimleri, kentsel çalışmalar, finans ve ekonomi gibi çeşitli alanlardan yararlanılır.</p>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Sınıf ve çevrimiçi öğretim yöntemleri, aktif öğrenmeye ve eleştirel düşünmeye odaklanır. Katılımcıları işlenen konularla ilgili derin ve eleştirel düşünmeye teşvik etmek amacıyla vaka çalışmaları, grup tartışmaları, problem çözme etkinlikleri ve deneyimsel öğrenme gibi çeşitli teknikler kullanılır.</p>
                     </span>
                   </li>
                   <li class="flex gap-x-3">
-                    <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Who can benefit from Öncü Academy's learning programs?</strong>
+                    <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Öncü Akademi'nin Öğrenme Programlarından Kimler Faydalanabilir?</strong>
                       <ul class="ml-6">
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Individuals seeking personal and professional development through a diverse and interdisciplinary approach to learning.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Small and large-sized enterprises seeking to enhance their executives' knowledge and skills, and drive growth and innovation within their organizations.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Non-profit organizations looking to increase their social impact through social entrepreneurship, and create positive change within their communities.</li>
-                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Government agencies and policymakers seeking evidence-based research and analysis to improve public policy and governance, and drive positive societal change.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Çeşitli konularda ve disiplinler arası bir öğrenme yaklaşımı ile kişisel ve mesleki gelişim arayışında olan bireyler.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Yöneticilerin bilgi ve becerilerini artırmayı, kurumlarında büyümeyi ve yeniliği sağlamayı hedefleyen küçük ve büyük ölçekli işletmeler.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Sosyal girişimcilik yoluyla sosyal etkiyi artırmak, topluluklarında olumlu değişim yaratmak isteyen kar amacı gütmeyen kuruluşlar.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Kamu politikası ve yönetişimi iyileştirmek, olumlu toplumsal değişimi sağlamak için kanıta dayalı araştırmalar ve analizler arayan kamu kurumları ve karar alıcılar.</li>
                       </ul>
                     </span>
                   </li>
@@ -193,7 +184,7 @@ export default {
       const headerParagraph =
         this.$i18n.locale === 'en'
           ? 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.'
-          : 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.'
+          : 'Sizleri, bildiklerinizi sorgulamaya, merakınızı özgürleştirmeye, kendinizi yeniden keşfetmeye davet ediyoruz.'
       const headerImage =
         this.$i18n.locale === 'en'
           ? '/images/hero.png'
