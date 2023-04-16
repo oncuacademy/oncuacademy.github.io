@@ -1,0 +1,205 @@
+<template>
+  <div>
+    <div v-if="$i18n.locale === 'en'">
+      <div id="section-left" class="relative px-6 py-24 overflow-hidden bg-white isolate sm:py-32 lg:overflow-visible lg:px-0">
+        <div class="grid max-w-2xl grid-cols-1 mx-auto gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
+          <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+            <div class="lg:pr-4">
+              <div class="lg:max-w-lg">
+                <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                  About
+                </h2>
+                <h3 class="mt-2 text-xl font-bold tracking-tight text-gray-500 sm:text-2xl">
+                  Academy Without Borders
+                </h3>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  Öncü Academy was founded by a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  We believe that everyone deserves access to knowledge and personal growth, which is why we've built a comprehensive learning framework and tailored executive education programs designed to break down barriers and cultivate a culture of lifelong learning.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  We recognize that everyone learns differently, and we are committed to providing personalized and inclusive learning experiences that meet the unique needs of each individual.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  Through our innovative programs, modules, and courses, we seek to pioneer new frontiers in learning, equipping individuals, professionals, organizations, and communities with the knowledge and skills they need to achieve their goals. By fostering a culture of lifelong learning, we aim to create positive change and make a lasting impact on the world.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-span-1 p-12 -mt-4 lg:-ml-4 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
+            <img class="rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/hero.png" alt="">
+          </div>
+          <div class="lg:col-span-2 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+            <div class="lg:pr-4">
+              <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
+                <ul role="list" class="mt-8 space-y-8 text-gray-600">
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'eye']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Vision.</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">We will be an academy that serves as a beacon of hope and inspiration for all who seek to grow, develop, and succeed. An academy that values diversity, equity, and inclusion and empowers learners to pursue their passions and interests with confidence and enthusiasm.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Values.</strong>
+                      <ul class="ml-6">
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Respect for human dignity: </strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Responsibility:</strong> We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Honesty:</strong> We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Fairness:</strong> We strive for fairness and justice in our interactions with others, and work to eliminate discrimination and bias in all forms.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Compassion:</strong> We show compassion and empathy towards others, and work to help those in need.</li>
+                      </ul>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'lightbulb']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Knowledge Creation and Sharing</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">At Öncü Academy, we believe in a dynamic and evolving approach to knowledge that emphasizes collaboration, innovation, and critical thinking. We view knowledge as a constantly changing and expanding realm, one that requires ongoing curiosity, exploration, and reflection. Our learning practice rests on the firm belief that knowledge is not just a product, but a process of discovery and inquiry that involves diverse perspectives and experiences. As such, we strive to create a learning environment that fosters intellectual openness, inclusivity, and respect for different ways of knowing.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'graduation-cap']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Program Design and Pedagogical Approaches for Effective Learning</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">We develop our learning programs based on interdisciplinary interests and needs, drawing from various fields such as business and management studies, political economy, social theory, cultural studies, history, philosophy, computing science, urban studies, finance and economics.</p>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Our classroom and online teaching methods are centered on active learning and critical thinking, which involves encouraging participants to think deeply and critically about the subject matter at hand. We employ a range of techniques such as case studies, group discussions, debates, problem-solving activities, and experiential learning to facilitate this process.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Who can benefit from Öncü Academy's learning programs?</strong>
+                      <ul class="ml-6">
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Individuals seeking personal and professional development through a diverse and interdisciplinary approach to learning.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Small and large-sized enterprises seeking to enhance their executives' knowledge and skills, and drive growth and innovation within their organizations.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Non-profit organizations looking to increase their social impact through social entrepreneurship, and create positive change within their communities.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Government agencies and policymakers seeking evidence-based research and analysis to improve public policy and governance, and drive positive societal change.</li>
+                      </ul>
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div v-if="$i18n.locale === 'tr'">
+      <div id="section-left" class="relative px-6 py-24 overflow-hidden bg-white isolate sm:py-32 lg:overflow-visible lg:px-0">
+        <div class="grid max-w-2xl grid-cols-1 mx-auto gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
+          <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+            <div class="lg:pr-4">
+              <div class="lg:max-w-lg">
+                <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                  About
+                </h2>
+                <h3 class="mt-2 text-xl font-bold tracking-tight text-gray-500 sm:text-2xl">
+                  Academy Without Borders
+                </h3>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  Öncü Academy was founded by a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  We believe that everyone deserves access to knowledge and personal growth, which is why we've built a comprehensive learning framework and tailored executive education programs designed to break down barriers and cultivate a culture of lifelong learning.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  We recognize that everyone learns differently, and we are committed to providing personalized and inclusive learning experiences that meet the unique needs of each individual.
+                </p>
+                <p class="mt-6 text-base leading-8 text-gray-700">
+                  Through our innovative programs, modules, and courses, we seek to pioneer new frontiers in learning, equipping individuals, professionals, organizations, and communities with the knowledge and skills they need to achieve their goals. By fostering a culture of lifelong learning, we aim to create positive change and make a lasting impact on the world.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-span-1 p-12 -mt-4 lg:-ml-4 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
+            <img class="rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/hero.png" alt="">
+          </div>
+          <div class="lg:col-span-2 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+            <div class="lg:pr-4">
+              <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
+                <ul role="list" class="mt-8 space-y-8 text-gray-600">
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'eye']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Vision.</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">We will be an academy that serves as a beacon of hope and inspiration for all who seek to grow, develop, and succeed. An academy that values diversity, equity, and inclusion and empowers learners to pursue their passions and interests with confidence and enthusiasm.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Values.</strong>
+                      <ul class="ml-6">
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Respect for human dignity: </strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Responsibility:</strong> We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Honesty:</strong> We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Fairness:</strong> We strive for fairness and justice in our interactions with others, and work to eliminate discrimination and bias in all forms.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc"><strong>Compassion:</strong> We show compassion and empathy towards others, and work to help those in need.</li>
+                      </ul>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'lightbulb']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Knowledge Creation and Sharing</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">At Öncü Academy, we believe in a dynamic and evolving approach to knowledge that emphasizes collaboration, innovation, and critical thinking. We view knowledge as a constantly changing and expanding realm, one that requires ongoing curiosity, exploration, and reflection. Our learning practice rests on the firm belief that knowledge is not just a product, but a process of discovery and inquiry that involves diverse perspectives and experiences. As such, we strive to create a learning environment that fosters intellectual openness, inclusivity, and respect for different ways of knowing.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'graduation-cap']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Program Design and Pedagogical Approaches for Effective Learning</strong>
+                      <p class="mt-6 text-base leading-8 text-gray-700">We develop our learning programs based on interdisciplinary interests and needs, drawing from various fields such as business and management studies, political economy, social theory, cultural studies, history, philosophy, computing science, urban studies, finance and economics.</p>
+                      <p class="mt-6 text-base leading-8 text-gray-700">Our classroom and online teaching methods are centered on active learning and critical thinking, which involves encouraging participants to think deeply and critically about the subject matter at hand. We employ a range of techniques such as case studies, group discussions, debates, problem-solving activities, and experiential learning to facilitate this process.</p>
+                    </span>
+                  </li>
+                  <li class="flex gap-x-3">
+                    <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong class="font-semibold text-gray-900">Who can benefit from Öncü Academy's learning programs?</strong>
+                      <ul class="ml-6">
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Individuals seeking personal and professional development through a diverse and interdisciplinary approach to learning.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Small and large-sized enterprises seeking to enhance their executives' knowledge and skills, and drive growth and innovation within their organizations.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Non-profit organizations looking to increase their social impact through social entrepreneurship, and create positive change within their communities.</li>
+                        <li class="mt-6 text-base leading-8 text-gray-700 list-disc">Government agencies and policymakers seeking evidence-based research and analysis to improve public policy and governance, and drive positive societal change.</li>
+                      </ul>
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'IndexPage',
+  data () {
+    return {
+      showModal: false,
+      headTitle: this.$t('home') + ' | ' + this.$t('title'),
+      headerTitle: '',
+      headerParagraph: '',
+      headerImage: ''
+    }
+  },
+  head () {
+    return {
+      title: this.headTitle
+    }
+  },
+  watch: {
+    '$i18n.locale' (newVal, oldVal) {
+      this.updateHeader()
+    }
+  },
+  mounted () {
+    this.updateHeader()
+  },
+  methods: {
+    updateHeader () {
+      const headerTitle =
+        this.$i18n.locale === 'en'
+          ? 'Öncü Academy'
+          : 'Öncü Academy'
+      const headerParagraph =
+        this.$i18n.locale === 'en'
+          ? 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.'
+          : 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.'
+      const headerImage =
+        this.$i18n.locale === 'en'
+          ? '/images/hero.png'
+          : '/images/hero.png'
+      this.$nuxt.$emit('updateHeader', { headerTitle, headerParagraph, headerImage })
+    }
+  }
+}
+</script>

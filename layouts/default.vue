@@ -1,0 +1,80 @@
+<template>
+  <div>
+    <div class="fixed top-0 z-50 w-full mx-auto">
+      <TopMenu />
+    </div>
+    <div class="flex flex-col h-full lg:min-h-screen font-default">
+      <MainHeader :headertitle="headerTitle" :headerparagraph="headerParagraph" :headerimage="headerImage" />
+      <div class="flex flex-1">
+        <div class="container flex-1 mx-auto mb-16 max-w-7xl lg:grid lg:grid-cols-4">
+          <div class="p-8 lg:min-h-screen lg:col-span-4 mb-footer">
+            <Nuxt />
+          </div>
+        </div>
+      </div>
+      <MainFooter />
+    </div>
+  </div>
+</template>
+
+<script>
+import MainHeader from '../components/MainHeader.vue'
+import TopMenu from '../components/TopMenu.vue'
+import MainFooter from '../components/MainFooter.vue'
+
+export default {
+  name: 'IndexPage',
+  components: { MainHeader, TopMenu, MainFooter },
+  data () {
+    return {
+      headerTitle: '',
+      headerParagraph: '',
+      headerImage: ''
+    }
+  },
+  watch: {
+    '$i18n.locale' (newVal, oldVal) {
+      this.$nuxt.$emit('updateHeader')
+    }
+  },
+  created () {
+    this.$nuxt.$on('updateHeader', (data) => {
+      if (data) {
+        this.headerTitle = data.headerTitle
+        this.headerParagraph = data.headerParagraph
+        this.headerImage = data.headerImage
+      }
+    })
+  },
+  beforeDestroy () {
+    this.$nuxt.$off('updateHeader')
+  }
+}
+</script>
+
+<style>
+body {
+  @apply overscroll-none;
+}
+html {
+  @apply relative min-h-screen;
+}
+h1 {
+  @apply text-3xl font-extrabold tracking-tight text-oncured-800 sm:text-4xl lg:text-5xl mb-6;
+}
+h2 {
+  @apply text-2xl font-extrabold tracking-tight text-oncured-800 sm:text-3xl lg:text-4xl mb-6;
+}
+h3 {
+  @apply text-xl font-extrabold tracking-tight text-oncured-800 sm:text-2xl lg:text-3xl mb-6;
+}
+.nuxt-link-exact-active {
+  @apply bg-oncured-600 text-white font-bold;
+}
+.nuxt-link-exact-active .fai {
+  @apply  opacity-100;
+}
+.nuxt-link-exact-active .idesc {
+  @apply  opacity-100;
+}
+</style>
