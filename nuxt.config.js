@@ -158,11 +158,11 @@ export default {
       },
       ourlearningfacilitators: {
         en: '/our-learning-facilitators',
-        tr: '/our-learning-facilitators'
+        tr: '/oncu-academy-ekibi'
       },
       certificateprogramsandcourses: {
         en: '/certificate-programs-and-courses',
-        tr: '/certificate-programs-and-courses'
+        tr: '/sertifikalar-moduller-ve-dersler'
       },
       careers: {
         en: '/careers',
