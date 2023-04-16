@@ -1,1 +1,1 @@
-__NUXT_JSONP__("/en/chairs-message", {data:[{}],fetch:{},mutations:[]});
+__NUXT_JSONP__('/en/chairs-message', { data: [{}], fetch: {}, mutations: [] })
