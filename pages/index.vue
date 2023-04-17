@@ -38,7 +38,7 @@
                   </li>
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong>Values.</strong>
-                      <ul class="ml-6">
+                      <ul>
                         <li><strong>Respect for human dignity: </strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
                         <li><strong>Responsibility:</strong> We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
                         <li><strong>Honesty:</strong> We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
@@ -60,7 +60,7 @@
                   </li>
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong>Who can benefit from Öncü Academy's learning programs?</strong>
-                      <ul class="ml-6">
+                      <ul>
                         <li>Individuals seeking personal and professional development through a diverse and interdisciplinary approach to learning.</li>
                         <li>Small and large-sized enterprises seeking to enhance their executives' knowledge and skills, and drive growth and innovation within their organizations.</li>
                         <li>Non-profit organizations looking to increase their social impact through social entrepreneurship, and create positive change within their communities.</li>
@@ -110,7 +110,7 @@
                   </li>
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong>Değerler.</strong>
-                      <ul class="ml-6">
+                      <ul>
                         <li><strong>İnsan Onuruna Saygı: </strong>Geçmişi, ırkı, dini, cinsiyeti veya cinsel yönelimi ne olursa olsun, tüm bireylere insanlık onuruyla ve saygıyla yaklaşırız.</li>
                         <li><strong>Sorumluluk:</strong> Eylemlerimizin ve sonuçlarının sorumluluğunu alırız. Ahlaki davranır ve kararlarımızın başkaları üzerindeki etkisine karşı sorumluluk üstleniriz.</li>
                         <li><strong>Dürüstlük:</strong> İş ve kişisel ilişkilerimizde, dürüst ve doğru davranırız.</li>
@@ -132,7 +132,7 @@
                   </li>
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'users']" class="h-4 mr-2 text-oncured-500" /><strong>Öncü Akademi'nin Öğrenme Programlarından Kimler Faydalanabilir?</strong>
-                      <ul class="ml-6">
+                      <ul>
                         <li>Çeşitli konularda ve disiplinler arası bir öğrenme yaklaşımı ile kişisel ve mesleki gelişim arayışında olan bireyler.</li>
                         <li>Yöneticilerin bilgi ve becerilerini artırmayı, kurumlarında büyümeyi ve yeniliği sağlamayı hedefleyen küçük ve büyük ölçekli işletmeler.</li>
                         <li>Sosyal girişimcilik yoluyla sosyal etkiyi artırmak, topluluklarında olumlu değişim yaratmak isteyen kar amacı gütmeyen kuruluşlar.</li>

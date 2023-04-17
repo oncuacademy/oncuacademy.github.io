@@ -81,6 +81,9 @@ h3 {
   li {
     @apply list-disc;
   }
+  ul {
+    @apply ml-6;
+  }
   strong {
     @apply font-semibold text-lg text-black;
   }
