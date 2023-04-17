@@ -7,7 +7,7 @@
       <MainHeader :headertitle="headerTitle" :headerparagraph="headerParagraph" :headerimage="headerImage" />
       <div class="flex flex-1">
         <div class="container flex-1 mx-auto mb-16 max-w-7xl lg:grid lg:grid-cols-4">
-          <div class="p-8 lg:min-h-screen lg:col-span-4 mb-footer">
+          <div id="content" class="p-8 lg:min-h-screen lg:col-span-4 mb-footer">
             <Nuxt />
           </div>
         </div>
@@ -52,7 +52,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 body {
   @apply overscroll-none;
 }
@@ -68,6 +68,18 @@ h2 {
 h3 {
   @apply text-xl font-extrabold tracking-tight text-oncured-800 sm:text-2xl lg:text-3xl mb-6;
 }
+#content {
+  h3 {
+    @apply block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60
+  }
+  h4 {
+    @apply mt-16 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl;
+  }
+  p, li {
+    @apply mt-6 text-base leading-7 text-gray-600;
+  }
+}
+
 .nuxt-link-exact-active {
   @apply bg-oncured-600 text-white font-bold;
 }

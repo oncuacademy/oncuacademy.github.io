@@ -6,16 +6,16 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   At Oncu Academy, we're passionate about lifelong learning and empowering individuals with the knowledge and skills to succeed in their careers. We are currently seeking experienced professionals with a passion for teaching and curriculum development to join our team as learning facilitators.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   As a learning facilitator, you will have the opportunity to create and deliver engaging and informative content for our MBA and leadership certificate programs. We are looking for individuals with a strong background in business, leadership, management, or related fields.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   If you're interested in working with us, please send your CV and a short cover letter to <a href="mailto:info@oncuacademy.com" class="text-oncured-900">info@oncuacademy.com</a>. In your cover letter, please tell us which subjects you're most interested in teaching and how your experience and skills make you a great fit for our team.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   We look forward to hearing from you and exploring the possibility of working together to create world-class educational programs.
                 </p>
               </div>
@@ -33,16 +33,16 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   Öncü Akademi olarak, insanların kariyerlerinde başarılı olmaları için gerekli bilgi ve becerilerle donatmak amacıyla çalışıyoruz. MBA ve liderlik sertifika programlarımız kapsamında deneyimli eğitmenler arıyoruz.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   Eğitmenlerimiz, katılımcılarımıza ilgi çekici ve bilgilendirici dersler sunacak ve ders programlarını geliştirme konusunda da aktif rol oynayacaklar. İşletme, liderlik, yönetim veya ilgili alanlarda tecrübeli eğitmenler arıyoruz.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   Bizimle çalışmak isteyen eğitmenlerimiz, CV'lerini ve kısa bir ön yazıyı <a href="mailto:info@oncuacademy.com" class="text-oncured-900">info@oncuacademy.com</a> adresine gönderebilirler. Ön yazılarında, hangi konularda ders sunmak istediklerini ve kariyer hedeflerine nasıl katkı sağlayabileceklerini belirtmeleri yeterli.
                 </p>
-                <p class="mt-6 text-base leading-8 text-gray-700">
+                <p>
                   Dünya standartlarında eğitim programları oluşturmak için birlikte çalışma fırsatını keşfetmek ve sizi tanımak için sabırsızlanıyoruz.
                 </p>
               </div>

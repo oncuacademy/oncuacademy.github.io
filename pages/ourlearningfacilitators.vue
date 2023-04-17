@@ -10,10 +10,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/ahmet-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Ahmet Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Founder, Chair, MBA and Global Economy and Global Business Programs and Courses Pioneer.
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -25,10 +25,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/osman-akin.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Osman Akın
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Social Media, Digital Communications, and Digital Marketing and AI Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -40,10 +40,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/hai-che.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Hai Che
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Marketing Programs and Courses Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -55,10 +55,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/melek-eyigunlu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Melek Eyigünlü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Global Business, Ethics and Social Responsibility Programs Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -70,10 +70,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/hande-karadag.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Hande Karadağ
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Strategy, Leadership, and Management Programs and Courses Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -85,10 +85,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/yusuf-karanci.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Yusuf Karancı
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Disruptive Technologies, Innovation, and Business Transformation Programs Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -100,10 +100,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/sabri-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Sabri Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         International Network and Partnerships Director and MBA, Finance and Economics Programs and Courses Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -115,10 +115,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/yasemin-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Yasemin Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Toronto Network Coordinator and Art Programs and Courses Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -130,10 +130,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/okan-pala.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Okan Pala
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Sustainability and Sustainable Business Strategy Programs Pioneer
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -161,10 +161,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/ahmet-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Ahmet Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Kurucu, Başkan ve MBA ve Küresel Ekonomi ve Küresel İşletme Programları Öncüsü.
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -176,10 +176,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/osman-akin.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Osman Akın
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Sosyal Medya, Dijital İletişim, Dijital Pazarlama ve Yapay Zeka Programları Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -191,10 +191,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/hai-che.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Hai Che
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Pazarlama Programları ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -206,10 +206,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/melek-eyigunlu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Melek Eyigünlü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         GKüresel İşletme, İş ve İşletme Etiği Programları Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -221,10 +221,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/hande-karadag.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Hande Karadağ
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Strateji, Liderlik ve Yönetim Programları ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -236,10 +236,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/yusuf-karanci.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Yusuf Karancı
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Yıkıcı Teknolojiler, Yenilikçilik ve İş Dönüştürme Programları ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -251,10 +251,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/sabri-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Sabri Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Uluslararası Network ve Ortaklıklar Direktörü, MBA, Finans ve Ekonomi Programları ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -266,10 +266,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/yasemin-oncu.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Yasemin Öncü
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Toronto Network Koordinatörü, Sanat Programları ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
@@ -281,10 +281,10 @@
                   <li class="pt-12">
                     <img class="object-cover mx-auto h-60 w-52 rounded-2xl" src="/staff/okan-pala.jpg" alt="">
                     <div class="flex-auto">
-                      <h3 class="block mx-auto mt-8 text-lg font-semibold leading-8 tracking-tight text-center text-gray-900 w-60">
+                      <h3>
                         Okan Pala
                       </h3>
-                      <p class="text-base leading-7 text-gray-600">
+                      <p>
                         Sürdürülebilirlik ve Sürdürülebilir İş Stratejileri Program ve Dersleri Öncüsü
                       </p>
                       <p class="mt-6 text-base leading-7 text-gray-600">
