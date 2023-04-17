@@ -78,6 +78,12 @@ h3 {
   p, li {
     @apply mt-6 text-base leading-7 text-gray-600;
   }
+  li {
+    @apply list-disc;
+  }
+  strong {
+    @apply font-semibold text-lg text-black;
+  }
 }
 
 .nuxt-link-exact-active {
