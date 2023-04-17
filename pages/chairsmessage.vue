@@ -107,12 +107,12 @@ export default {
     updateHeader () {
       const headerTitle =
         this.$i18n.locale === 'en'
-          ? "Chair's Message"
-          : 'Kurucumuzdan Mesaj'
+          ? 'In the Wake of New Beginnings'
+          : 'Yeni Başlangıçların Kapısı'
       const headerParagraph =
         this.$i18n.locale === 'en'
           ? 'A message from the founder.'
-          : 'Kurucumuzdan mesaj.'
+          : 'Kurucunun mesajı.'
       const headerImage =
         this.$i18n.locale === 'en'
           ? '/images/mj5.png'

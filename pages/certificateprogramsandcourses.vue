@@ -6,17 +6,20 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
+                <p class="mt-4">
+                  Each program and module includes interactive online sessions, case studies, group discussions, and participant activities and assignments that provide hands-on learning experiences. Participants will also receive personalized coaching and feedback from experienced instructors who have expertise in the relevant fields. Upon completion of the program or module, participants will receive a certificate that demonstrates their mastery of essential competencies in the relevant subject area.
+                </p>
                 <h4 class="mt-16 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">
                   MBA Certificate Programs:
                 </h4>
                 <p class="mt-4">
-                  <span class="text-lg text-black">MBAX for Disruptive Times (72 hours):</span> A certificate program that focuses on the challenges of managing in an ever-changing business landscape, and provides strategies and tools to navigate uncertainty and disruptions.
+                  <span class="text-lg text-black">MBAX for Disruptive Times:</span> A certificate program that focuses on the challenges of managing in an ever-changing business landscape, and provides strategies and tools to navigate uncertainty and disruptions.
                 </p>
                 <p class="mt-4">
-                  <span class="text-lg text-black">Disruptive Innovation MBA (60 hours):</span> Learn how to identify and capitalize on disruptive technologies and ideas to create new business models and stay ahead of the competition.
+                  <span class="text-lg text-black">Disruptive Innovation MBA:</span> Learn how to identify and capitalize on disruptive technologies and ideas to create new business models and stay ahead of the competition.
                 </p>
                 <p class="mt-4">
-                  <span class="text-lg text-black">Digital Transformation MBA (60 hours):</span> Develop the skills to lead and navigate organizations through the complex process of digital transformation.
+                  <span class="text-lg text-black">Digital Transformation MBA:</span> Develop the skills to lead and navigate organizations through the complex process of digital transformation.
                 </p>
 
                 <h4 class="mt-16 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">
@@ -148,13 +151,13 @@
                 </h4>
 
                 <p class="mt-4">
-                  <span class="text-lg text-black">Yıkıcı Zamanlar için MBAX</span> (72 saat): Değişen iş dünyasında yönetimle ilgili zorluklara odaklanan ve kesintiler ile yıkıcı değişimleri yönlendirmek için stratejiler ve araçlar sağlayan yöneticiler için bir sertifika programıdır.
+                  <span class="text-lg text-black">Yıkıcı Zamanlar için MBAX</span>: Değişen iş dünyasında yönetimle ilgili zorluklara odaklanan ve kesintiler ile yıkıcı değişimleri yönlendirmek için stratejiler ve araçlar sağlayan yöneticiler için bir sertifika programıdır.
                 </p>
                 <p class="mt-4">
-                  <span class="text-lg text-black">Yıkıcı Yaratıcılık için MBA</span> (60 saat): Yıkıcı teknolojileri ve fikirleri tanımlama ve bunlardan yararlanarak yıkıcı iş modelleri oluşturma ve rekabetin önünde kalma başarısını öğrenme fırsatı sunan yöneticiler için sertifika programıdır.
+                  <span class="text-lg text-black">Yıkıcı Yaratıcılık için MBA</span>: Yıkıcı teknolojileri ve fikirleri tanımlama ve bunlardan yararlanarak yıkıcı iş modelleri oluşturma ve rekabetin önünde kalma başarısını öğrenme fırsatı sunan yöneticiler için sertifika programıdır.
                 </p>
                 <p class="mt-4">
-                  <span class="text-lg text-black">Dijital Dönüşüm MBA</span> (60 saat): Dijital dönüşüm sürecinde iş organizasyonlarını yönetme ve yönlendirme becerilerini geliştirmeye yardımcı olacak yöneticiler için sertifika programıdır.
+                  <span class="text-lg text-black">Dijital Dönüşüm MBA</span>: Dijital dönüşüm sürecinde iş organizasyonlarını yönetme ve yönlendirme becerilerini geliştirmeye yardımcı olacak yöneticiler için sertifika programıdır.
                 </p>
 
                 <h4 class="mt-16 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">
@@ -268,12 +271,12 @@ export default {
     updateHeader () {
       const headerTitle =
         this.$i18n.locale === 'en'
-          ? 'Certificate Programs and Courses'
+          ? 'Certificate Programs, Modules, and Courses'
           : 'Sertifikalar, Modüller ve Dersler'
       const headerParagraph =
         this.$i18n.locale === 'en'
-          ? 'MBA and Leadership certificates, Lectures, Modules, and Courses.'
-          : 'MBA ve Liderlik Sertifikaları, Modüller ve Dersler'
+          ? ' '
+          : ' '
       const headerImage =
         this.$i18n.locale === 'en'
           ? '/images/mj7.png'

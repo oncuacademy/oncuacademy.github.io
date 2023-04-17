@@ -82,9 +82,9 @@ export default {
 
           // Pages
           whoweare: 'Who We Are',
-          chairsmessage: "Chair's Message",
+          chairsmessage: 'In the Wake of New Beginnings',
           ourlearningfacilitators: 'Our Learning Facilitators',
-          certificateprogramsandcourses: 'Certificate Programs and Courses',
+          certificateprogramsandcourses: 'Certificate Programs, Modules, and Courses',
           careers: 'Careers',
           home: 'Home',
           news: 'News',
@@ -97,7 +97,7 @@ export default {
           desc_whoweare: 'Academy Without Borders',
           desc_chairsmessage: 'A message from the founder',
           desc_ourlearningfacilitators: 'Meet the Facilitators',
-          desc_certificateprogramsandcourses: 'MBA and Leadership certificates, Lectures, Modules, and Courses',
+          desc_certificateprogramsandcourses: ' ',
           desc_careers: 'Work with us',
           desc_contact: 'Get in touch',
           desc_home: 'Welcome Page',
@@ -121,8 +121,8 @@ export default {
 
           // Pages
           whoweare: 'Biz Kimiz',
-          chairsmessage: 'Başkandan Mesaj',
-          ourlearningfacilitators: 'Öncü Academy Ekibi',
+          chairsmessage: 'Yeni Başlangıçların Kapısı',
+          ourlearningfacilitators: 'Öncü Academy Öğrenme kılavuzları',
           certificateprogramsandcourses: 'Sertifikalar, Modüller ve Dersler',
           careers: 'Kariyer',
           home: 'Anasayfa',
@@ -134,9 +134,9 @@ export default {
 
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',
-          desc_chairsmessage: 'Başkandan Mesaj',
+          desc_chairsmessage: 'Kurucunun mesajı',
           desc_ourlearningfacilitators: 'Ekibimizle tanışın',
-          desc_certificateprogramsandcourses: 'MBA ve Liderlik Sertifikaları, Modüller ve Dersler',
+          desc_certificateprogramsandcourses: ' ',
           desc_careers: 'Bizlerle çalışmak ister misiniz?',
           desc_contact: 'İletişme geçin',
           desc_home: 'Hoşgeldiniz Sayfası',
@@ -153,8 +153,8 @@ export default {
         tr: '/biz-kimiz'
       },
       chairsmessage: {
-        en: '/chairs-message',
-        tr: '/baskandan-mesaj'
+        en: '/in-the-wake-of-new-beginnings',
+        tr: '/yeni-baslangiclarin-kapisi'
       },
       ourlearningfacilitators: {
         en: '/our-learning-facilitators',

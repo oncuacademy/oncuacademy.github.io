@@ -335,11 +335,11 @@ export default {
       const headerTitle =
         this.$i18n.locale === 'en'
           ? 'Our Learning Facilitators'
-          : 'Öncü Academy Ekibi'
+          : 'Öncü Academy Öğrenme kılavuzları'
       const headerParagraph =
         this.$i18n.locale === 'en'
           ? 'Meet the Facilitators.'
-          : 'Ekibimizle tanışın.'
+          : 'Öğrenme kılavuzları ile tanışın.'
       const headerImage =
         this.$i18n.locale === 'en'
           ? '/images/mj2.png'
